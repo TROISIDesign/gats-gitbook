@@ -26,8 +26,6 @@ A large collection of code samples which have been tested against GitHub's markd
 ### Block Elements
 
 <table>
-  <tr><td>Code</td><td>Preview</td></tr>
-
   <!--- Paragraphs -->
   <tr>
     <td colspan="2">Paragraph</td>
@@ -233,8 +231,6 @@ Header 2
 ### Inline Elements
 
 <table>
-  <tr><td>Code</td><td>Preview</td></tr>
-
   <!--- Links -->
   <tr>
     <td colspan="2">Links</td>
